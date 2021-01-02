@@ -34,3 +34,7 @@ body {
 .glyphicon-film:before {
     content: "\e009";
 }
+.book>img, .modal-body>img {
+    height: 300px;
+    width: auto;
+}
